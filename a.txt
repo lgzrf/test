@@ -1,7 +1,3 @@
 more crap text
 and even more crap text
-<<<<<<< HEAD
-this is getting silly
-=======
 this is getting very silly indeed
->>>>>>> 515635e1adbfe7e31e0841435baedeacde553bc1
